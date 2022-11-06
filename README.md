@@ -10,4 +10,7 @@ Space Stealer | By Spacex (Best Free Stealer ?!)
  Telegram       ->  @spacestealer
  Discord Server ->  https://discord.gg/6uA3Cyx3nU
  Developer      ->  V O ! D.#1337
+ Created On     ->  06/11/22
+ Made Using     ->  28.4% Javascript | 71.6% Node.js
+-------------
 ```
