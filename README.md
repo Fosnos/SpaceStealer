@@ -2,6 +2,7 @@
 
 ```csharp
 Space Stealer | By Spacex (Best Free Stealer ?!)
+
 -------------
  Owners         ->  V O ! D.#1337 | exploit#1337 | ClutchR#0204 | Kropz#9862
  Telegram       ->  @spacestealer
@@ -10,4 +11,8 @@ Space Stealer | By Spacex (Best Free Stealer ?!)
  Created On     ->  06/11/22
  Made Using     ->  28.4% Javascript | 71.6% Node.js
 -------------
+
 ```
+
+
+# Features
