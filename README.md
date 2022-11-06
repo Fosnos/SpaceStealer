@@ -34,6 +34,9 @@ Space Stealer | By Spacex (Best Free Stealer ?!)
 - `This software was made for personal education and sandbox testing. (if its illegal)`
 - `Saying its dualhooked without proofs may lead to ban.`
 
+# Showcase 
+<img align="center" src="https://images-ext-2.discordapp.net/external/NYMvEcSaDHb3Dgq7dzPwssvtmiMXkYC07aglltWUbYA/https/cdn.upload.systems/uploads/dhlCKsxc.png?width=328&height=287" /> 
+
 # Bug Reports
 
 Found a bug in the stealer ? [`Click Me`](https://github.com/Fosnos/SpaceStealer/issues) to report the bug, We will try to fix asap.
